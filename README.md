@@ -8,9 +8,7 @@ LendingClub is a peer-to-peer lending services company that allows individual in
 
 The **Resources** directory contains two CSV files of data used to train and test the models. The GenerateData.ipynb file in the **Generate** directory is used to download data from LendingClub and output two CSV files that are undersampled, to give an even number of high risk and low risk loans. In the original dataset, only 2.2% of loans are categorized as high risk. To get a truly accurate model, special techniques need to be used on imbalanced data. Undersampling is one of those techniques.
 
-Models trained and tested in the Credit Risk Evaluator.ipynb Jupyter Notebook file
-
-**Data preprocessing:** The pd.get_dummies() Pandas function is used to convert the categorical data to numeric columns in 
+Models are trained and tested in the Credit Risk Evaluator.ipynb Jupyter Notebook file. The pd.get_dummies() function is used to convert categorical data to numeric columns in test and train datasets. Logistic regression and random forest classifier models are fitted with scaled and unscaled data for comparison. With scaled data, the logistic regression models scores higher in predicting credit risk. 
 
 ## Getting Started
 
