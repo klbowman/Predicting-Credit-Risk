@@ -21,8 +21,8 @@ Models are trained and tested in the Credit Risk Evaluator.ipynb Jupyter Noteboo
 ### Installing
 
 * Clone this repository to your desktop.
-* To generate new data, navigate to the Generator directory, and run GenerateData.ipynb.
-* To build models, navigate to the home directory run Credit Risk Evaluator.ipynb.
+* To generate new data, navigate to the Generator directory and run GenerateData.ipynb.
+* To build models, navigate to the home directory and run Credit Risk Evaluator.ipynb.
 
 ### Data Sources
 
