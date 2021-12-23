@@ -1,6 +1,6 @@
-# Interactive Web Visualizations 
+# Predicting Credit Risk
 
-Interactive dashboard that displays charts and text from a JSON file. View the final product [here](https://klbowman.github.io/microbiome-dashboard/).
+Supervised machine learning models to predict whether a loan from LendingClub will become high risk or not.
 
 ## Description
 
