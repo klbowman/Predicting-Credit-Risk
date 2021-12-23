@@ -16,12 +16,13 @@ Models are trained and tested in the Credit Risk Evaluator.ipynb Jupyter Noteboo
 
 * Jupyter Notebook
 * Pandas 
-* sklearn 
+* Sklearn 
 
 ### Installing
 
 * Clone this repository to your desktop.
-* Navigate to the home directory and open index.html in your browser.
+* To generate new data, navigate to the Generator directory, and run GenerateData.ipynb.
+* To build models, navigate to the home directory run Credit Risk Evaluator.ipynb.
 
 ### Data Sources
 
