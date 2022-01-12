@@ -16,7 +16,7 @@ Models are trained and tested in the Credit Risk Evaluator.ipynb Jupyter Noteboo
 
 * Jupyter Notebook
 * Pandas 
-* Sklearn 
+* Scikit-learn 
 
 ### Installing
 
